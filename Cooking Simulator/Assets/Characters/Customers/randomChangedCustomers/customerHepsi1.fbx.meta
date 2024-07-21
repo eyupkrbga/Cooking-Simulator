@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: e4c7c1ad68727e04db612501b1a71004
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3894424082318976310
+    second: maviAdam|Armature|mixamo.com|Layer0
+  - first:
+      74: 6763266640679064448
+    second: maviAdam|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -427440527402860531
+    second: maviAdam|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 4125485699787547501
+    second: maviAdam|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 6231173753496920277
+    second: maviAdam|Armature|mixamo.com|Layer0.004
+  - first:
+      74: 5815287839000389887
+    second: maviAdam|Armature|mixamo.com|Layer0.005
+  - first:
+      74: -5299404100102794720
+    second: kirmiziAdam|Armature|mixamo.com|Layer0
+  - first:
+      74: 8275549578861907424
+    second: kirmiziAdam|Armature|mixamo.com|Layer0.001
+  - first:
+      74: 8777443254126946160
+    second: kirmiziAdam|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 1488201400269206652
+    second: kirmiziAdam|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 8267698852921076099
+    second: kirmiziAdam|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -8381175198325374337
+    second: kirmiziAdam|Armature|mixamo.com|Layer0.005
+  - first:
+      74: -127578967721300393
+    second: sariAdam|Armature|mixamo.com|Layer0
+  - first:
+      74: -1945803011300602484
+    second: sariAdam|Armature|mixamo.com|Layer0.001
+  - first:
+      74: 5260749943493789344
+    second: sariAdam|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 7458655770138701397
+    second: sariAdam|Armature|mixamo.com|Layer0.003
+  - first:
+      74: -8161938170531329448
+    second: sariAdam|Armature|mixamo.com|Layer0.004
+  - first:
+      74: 3342335539664842900
+    second: sariAdam|Armature|mixamo.com|Layer0.005
+  - first:
+      74: -8718225517002951821
+    second: pembeAdam|Armature|mixamo.com|Layer0
+  - first:
+      74: 7641174256359537057
+    second: pembeAdam|Armature|mixamo.com|Layer0.001
+  - first:
+      74: 1578320840919183286
+    second: pembeAdam|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 7000804419615414509
+    second: pembeAdam|Armature|mixamo.com|Layer0.003
+  - first:
+      74: -7584798915018667785
+    second: pembeAdam|Armature|mixamo.com|Layer0.004
+  - first:
+      74: 1556240304512177434
+    second: pembeAdam|Armature|mixamo.com|Layer0.005
+  - first:
+      74: -9003536746570043951
+    second: turuncuAdam|Armature|mixamo.com|Layer0
+  - first:
+      74: -1828736914911710281
+    second: turuncuAdam|Armature|mixamo.com|Layer0.001
+  - first:
+      74: 61620305738756372
+    second: turuncuAdam|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 4912822117567345650
+    second: turuncuAdam|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 778835767332138909
+    second: turuncuAdam|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -1491017161370159030
+    second: turuncuAdam|Armature|mixamo.com|Layer0.005
+  - first:
+      74: 6759086803382991731
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0
+  - first:
+      74: -2770135929185916639
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -9085538313502317819
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 7379279194673409435
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 5631034669171225375
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -3128114041125691840
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0.005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: dd3cfd6b56961854c96b946f5bdf19d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: f7fb76b3336b3524fbf7737b7752faf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 4a16ae0efcec3504b82969d9c08747be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 80670466c81c50541924bf8004d802de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 519c3eecad953ce4c9be75c3b3b8a162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: e0efa8886751b2144bdc4de1fd6a3790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 5e561499f33f25e458eae9da4c9b68f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: a69933bb7e5ad0f458aaaf03c745d90b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 9f9acd23eebfc2e48b5c338766fb8a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 0b8300f44a3e23748bd7046f1791d238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 8f847a4f8a0c4e04fb20a2805fb407ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: 5018fbe62fd52a740b29109ba11eda64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: ede4e9e7c6a08ba4bb3dc3c7bdc6379d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 21da5eb6b331e974abc99a9d1e0fe3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: e52121365cf42e547b917066bcba2579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: 118dd489848b1e04c98b16e297e2295a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 555b01df9d7478d4289caaee8e6126ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: e67e11430af3c064f80daa32839b7905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: d48ec7bbaf93a2049857a55dc89e7b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: 69e117b58e1aaea42bc8da3759d590bd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

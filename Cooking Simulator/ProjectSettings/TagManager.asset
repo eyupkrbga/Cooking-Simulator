@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bin
+  - MusteriTeslim1
+  - MusteriTeslim2
+  - MusteriTeslim3
+  - Stand1
+  - Stand2
+  - Stand3
+  - Stand4
+  - Stand5
+  - Stand6
+  - Stand7
+  - Stand8
+  - Stand9
+  - MusteriBaslangic
+  - KarakterOlusturma
+  - TeslimAlma1
+  - TeslimAlma2
+  - TeslimAlma3
+  - Musteri1
+  - Musteri2
+  - Musteri3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
